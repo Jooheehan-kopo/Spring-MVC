@@ -12,7 +12,7 @@
 		암호: <input type="text" name="password" size="20" /><br>
 		이름: <input type="text" name="name" size="20" /><br>
 		<input type="submit" value="저장"/>
-	
+	<!--name이랑 받는 값이랑 같아야함.  -->
 	</form>
 </body>
 </html>
